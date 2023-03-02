@@ -8,6 +8,7 @@ h1{
 body{
   background-color:cornsilk;
   text-align: center;
+  color: coral;
 }
 h2{
   background-color:rgb(252, 224, 182);
@@ -33,4 +34,17 @@ section{
 }
 a{
   color: coral;
+}
+header{
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+main{
+  background-color: rgb(252, 224, 182) ;
+  padding: 20px;
+  margin: 20px;
+}
+img{
+ padding: 10px;
 }
